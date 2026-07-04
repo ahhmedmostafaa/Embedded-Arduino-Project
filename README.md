@@ -32,8 +32,3 @@ An automated smart door system combining ultrasonic proximity sensing, servo-dri
 
 ## Security Note
 WiFi credentials in this repository are redacted. Never commit real WiFi credentials to a public repository — always set your own locally before uploading to your board.
-
-## Roadmap
-- [ ] Move WiFi credentials to a separate untracked config file
-- [ ] Add a demo video/GIF of the door in action
-- [ ] Replace the hardcoded proximity threshold/timing with configurable constants exposed over WiFi
