@@ -4,8 +4,8 @@
 // Define software serial pins for ESP8266 communication 
 SoftwareSerial esp8266(10, 11); // RX, TX 
 // WiFi credentials - replace with your actual SSID and password 
-const char* ssid = "WE_A9519B"; // WiFi network name 
-const char* password = "de454eab"; //WiFi password 
+const char* ssid = "****"; // WiFi network name 
+const char* password = "****"; //WiFi password 
 // Define pins for components 
 const int triggerPin = 2; 
 const int echoPin = 3; 
